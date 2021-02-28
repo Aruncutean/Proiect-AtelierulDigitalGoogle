@@ -1,0 +1,5 @@
+Proiectul 1
+Ex1: este primul design Patterns in care am folosit un Observer care era nodificat de un client care trimite
+      un mesaj unui server iar serverul trimite mesajul celorlalti clienti
+
+Ex2: Am folosit un Builder pentru a putea a simplifica modul de logarea a conturilor unei banci

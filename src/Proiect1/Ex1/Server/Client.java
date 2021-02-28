@@ -1,4 +1,4 @@
-package Proiect1.Server;
+package Proiect1.Ex1.Server;
 
 import java.io.DataOutputStream;
 import java.io.IOException;

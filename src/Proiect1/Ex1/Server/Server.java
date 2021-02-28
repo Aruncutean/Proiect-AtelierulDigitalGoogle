@@ -1,9 +1,13 @@
-package Proiect1.Server;
+package Proiect1.Ex1.Server;
+
+import Proiect1.Ex1.Server.Client;
+import Proiect1.Ex1.Server.Observed;
+import Proiect1.Ex1.Server.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Server  implements Observed{
+public class Server  implements Observed {
     private List<Client> listClients;
 
 

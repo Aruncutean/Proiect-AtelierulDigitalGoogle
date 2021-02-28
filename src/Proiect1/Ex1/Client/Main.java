@@ -1,4 +1,4 @@
-package Proiect1.Client;
+package Proiect1.Ex1.Client;
 
 import java.io.*;
 import java.net.InetSocketAddress;

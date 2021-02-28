@@ -1,4 +1,4 @@
-package Proiect1.Server;
+package Proiect1.Ex1.Server;
 
 public interface Observed {
     void register(Observer obj);
